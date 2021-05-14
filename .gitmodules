@@ -1,0 +1,6 @@
+[submodule "CC-Repo-V1"]
+	path = CC-Repo-V1
+	url = https://github.com/Guillergood/CC-Repo-V1
+[submodule "CC-Repo-V2"]
+	path = CC-Repo-V2
+	url = https://github.com/Guillergood/CC-Repo-V2
